@@ -1,6 +1,5 @@
-# vue-pinia-login
+# vue-pinia_aixos
 
-我太厉害了!
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
